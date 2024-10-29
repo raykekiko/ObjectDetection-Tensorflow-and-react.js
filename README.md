@@ -1,5 +1,5 @@
 # ObjectDetection-Tensorflow-and-react.js
-This is a Object detection system ,suing tensor flow and react.js , it helps to identify the objects 
+This is a Object detection system ,using tensor flow and react.js , it helps to identify the objects 
 step 1 - extract the zip file
 step 2 - and the folder is also compressed so extra that too
 step 3 - download the dependency like tensorflow , node.js , npm , nvm in cmd 
